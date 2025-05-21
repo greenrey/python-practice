@@ -5,5 +5,6 @@ This is my personal space to review and practice Python fundamentals, focusing o
 - `pandas`
 - `numpy`
 - `data visualization`
+- `scikit-learn`
 
 Most notebooks include notes, examples, and hands-on experiments with public datasets.
